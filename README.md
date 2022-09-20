@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirmalsunny
-- 👀 I’m interested in PHP, Python, Linux Servers, DevOps
+- 👀 I’m interested in PHP, Python, Linux Servers, and DevOps
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on pretty much anywhere
 
